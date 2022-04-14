@@ -5,5 +5,6 @@
   ### Stuff I use:
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="C" width="50" height="50"/>&nbsp;
   </div>
 </h1>
