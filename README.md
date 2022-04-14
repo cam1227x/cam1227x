@@ -4,6 +4,8 @@
 </h1>
 
 <h3>
+  ---
+  ### Stuff I use
   - C Programming Language (Learning)
   - Linux (Arch btw)
   - Python
