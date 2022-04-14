@@ -4,6 +4,6 @@
   
   ### Stuff I use:
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="50" height="50"/>&nbsp;
   </div>
 </h1>
