@@ -7,4 +7,4 @@
 ### Stuff I use
 - C Programming Language (Learning)
 - Linux (Arch btw)
-- Python
+- DWM (Along with other Suckless Sofware)
