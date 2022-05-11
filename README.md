@@ -5,7 +5,7 @@
 
 ---
 ### Stuff I use
-- C Programming Language (Learning)
+- Neovim
 - Linux (Arch btw)
 - DWM (Along with other Suckless Software)
 
@@ -13,3 +13,7 @@
 - Nintendo Consoles
 - Hardware Hacking
 - Programming (Primarily in C)
+
+### Check out my other lionks!
+- <a href="cam1227x.xyz">My Website</a>
+- <a href="https://www.youtube.com/channel/UC8ace30zBAxpbPbodwmqy-Q">My Youtube</a>
