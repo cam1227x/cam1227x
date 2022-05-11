@@ -7,9 +7,9 @@
 ### Stuff I use
 - C Programming Language (Learning)
 - Linux (Arch btw)
-- DWM (Along with other Suckless Sofware)
+- DWM (Along with other Suckless Software)
 
 ### Stuff I like
 - Nintendo Consoles
 - Hardware Hacking
-- Programming; C, C++, Assembly
+- Programming (Primarily in C)
