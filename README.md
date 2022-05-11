@@ -14,6 +14,6 @@
 - Hardware Hacking
 - Programming (Primarily in C)
 
-### Check out my other lionks!
-- <a href="cam1227x.xyz">My Website</a>
-- <a href="https://www.youtube.com/channel/UC8ace30zBAxpbPbodwmqy-Q">My Youtube</a>
+### Check out my other Links!
+- [My Website](cam1227x.xyz)
+- [My Youtube](https://www.youtube.com/channel/UC8ace30zBAxpbPbodwmqy-Q)
