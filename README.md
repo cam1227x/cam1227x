@@ -14,6 +14,6 @@
 - Hardware Hacking
 - Programming (Primarily in C)
 
-### Check out my other Links!
+### More of my stuff!
 - [My Website](https://cam1227x.xyz)
 - [My Youtube](https://www.youtube.com/channel/UC8ace30zBAxpbPbodwmqy-Q)
