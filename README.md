@@ -15,5 +15,5 @@
 - Programming (Primarily in C)
 
 ### Check out my other Links!
-- [My Website](cam1227x.xyz)
+- [My Website](https://cam1227x.xyz)
 - [My Youtube](https://www.youtube.com/channel/UC8ace30zBAxpbPbodwmqy-Q)
