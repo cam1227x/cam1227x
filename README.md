@@ -7,13 +7,8 @@
 ### Stuff I use
 - Neovim
 - Linux (Arch btw)
-- DWM (Along with other Suckless Software)
+- i3 / DWM
 
-### Stuff I like
-- Nintendo Consoles
-- Hardware Hacking
-- Programming (Primarily in C)
-
-### More of my stuff!
+### My stuff!
 - [My Website](https://cam1227x.xyz)
 - [My Youtube](https://www.youtube.com/channel/UC8ace30zBAxpbPbodwmqy-Q)
