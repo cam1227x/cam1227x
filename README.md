@@ -1,9 +1,7 @@
-# 💙 Cam1227x 💙
-
 <p align="center">
-	<br/>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3250&pause=1000&center=true&width=500&lines=Programming+%3C3" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3950&pause=1250&center=true&width=500&lines=%F0%9F%92%99+Cam1227x+%F0%9F%92%99" alt="Typing SVG" /></a>
 	<img alt="" src="./imgs/Something_Wrong.jpg">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3950&pause=1250&center=true&width=500&lines=Progamming+%3C3" alt="Typing SVG" /></a>
 </p>
 	
 ---
