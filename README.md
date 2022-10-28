@@ -1,7 +1,8 @@
 # 💙 Cam1227x 💙
+
 <p align="center">
 	<br/>
-	<i>Programming <3</i>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3250&pause=1000&center=false&width=435&lines=Programming+%3C3" alt="Typing SVG" /></a>
 	<img alt="" src="./imgs/Something_Wrong.jpg">
 </p>
 	
@@ -29,3 +30,7 @@ Thanks for checking my page out =)!
 
 ### 🪛 Languages & Tools:
 <br />
+
+### 🐙 Octo-Ring! (Check Out Some other Developers!) 🐙:
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/cam1227x/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/cam1227x/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/cam1227x/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
