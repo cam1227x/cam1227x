@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3950&pause=1250&center=true&width=500&lines=%F0%9F%92%99+Cam1227x+%F0%9F%92%99" alt="Typing SVG" /></a>
-	<img alt="" src="./imgs/hacker_.png">
+	<img alt="" src="./imgs/midjourney_image.png">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3950&pause=1250&center=true&width=500&lines=Progamming+%3C3" alt="Typing SVG" /></a>
 	
 ---
