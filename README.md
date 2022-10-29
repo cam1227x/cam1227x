@@ -8,7 +8,7 @@
 
 ### ❓ About Me:
 * Sixteen year old Low-Level programmer, linux user, ethical hacker, and overall computer geek 💻.
-* 🎵 Rhythm game player (4-key VSRG for the past month) 🎵
+* 🎵 Rhythm game player (4-key/7-key VSRG for the past month) 🎵
 * 🙃 Open Source Makes me happy 🐧
 * 🦊 Foxes are the dominant Species
 * 😁 Improving everyday!
